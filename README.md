@@ -16,3 +16,8 @@ Bu proje, Java ile konsol üzerinde çalışan basit bir uçak bileti rezervasyo
 ```bash
 javac Main.java
 java Main
+
+## 👤 Geliştirici
+
+- Ad: Ceyhun Emre Şener
+- Mail: ceyhunemre.sener@stu.pirireis.edu.tr
